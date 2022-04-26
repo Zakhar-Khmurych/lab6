@@ -1,0 +1,13 @@
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\bin\Debug\netcoreapp3.1\lab6try1.exe
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\bin\Debug\netcoreapp3.1\lab6try1.deps.json
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\bin\Debug\netcoreapp3.1\lab6try1.runtimeconfig.json
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\bin\Debug\netcoreapp3.1\lab6try1.runtimeconfig.dev.json
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\bin\Debug\netcoreapp3.1\lab6try1.dll
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\bin\Debug\netcoreapp3.1\lab6try1.pdb
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\obj\Debug\netcoreapp3.1\lab6try1.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\obj\Debug\netcoreapp3.1\lab6try1.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\obj\Debug\netcoreapp3.1\lab6try1.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\obj\Debug\netcoreapp3.1\lab6try1.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\obj\Debug\netcoreapp3.1\lab6try1.dll
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\obj\Debug\netcoreapp3.1\lab6try1.pdb
+C:\Users\HP\RiderProjects\lab6try1\lab6try1\obj\Debug\netcoreapp3.1\lab6try1.genruntimeconfig.cache
