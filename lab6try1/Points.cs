@@ -4,24 +4,25 @@ namespace lab6try1
 {
     public class Point
     {
-        private float latitude; // x
+        private double latitude = 0.0; 
 
-        private float length; // y
+        private double length = 0.0; 
 
-        private int radius;
+        private string name = "";
+        private string type = "";
 
-        private string name;
-        private string type;
+        
+        public Point(string line)
+        {
+            string[] eligible_points = line.Split(";");
 
-        /*
-         for each point in points
-            if in radius 
-                in_radius = true
-                display
+            latitude = Convert.ToDouble(eligible_points[0]);
+            length = Convert.ToDouble(eligible_points[1]);
+            name = eligible_points[4];
+            type = eligible_points[2] + " & " + eligible_points[3];
+
             
-         
-         Math.Sqrt((X - point.X) * (X - point.X) + (Y - point.Y) * (Y - point.Y))
-         */
+        }
         
         public double DistanceTo(Point another)
         {
@@ -29,8 +30,7 @@ namespace lab6try1
             result = Math.Sqrt((this.latitude - another.latitude)*(this.latitude - another.latitude)+(this.length - another.length)*(this.length - another.length));
             return result;
         }
-        
-        
+
     }
    
     
