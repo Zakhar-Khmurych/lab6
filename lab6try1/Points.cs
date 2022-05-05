@@ -19,7 +19,7 @@ namespace lab6try1
             latitude = Convert.ToDouble(eligible_points[0]);
             length = Convert.ToDouble(eligible_points[1]);
             name = eligible_points[4];
-            type = eligible_points[2] + " & " + eligible_points[3];
+            type = eligible_points[2] + ", " + eligible_points[3];
 
             
         }

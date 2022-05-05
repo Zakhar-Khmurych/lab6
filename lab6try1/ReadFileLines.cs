@@ -22,6 +22,15 @@ namespace lab6try1
                 }
             }
         }
+
+        public void PointsInRectangle(Point starting_point)
+        {
+            //sort by both length and latitude
+            string[] l = lines; 
+            //l.order
+
+            //  return null;
+        }
         
     }
 }
